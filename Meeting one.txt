@@ -1,0 +1,18 @@
+Focus and advertise towards 3001 after a few weeks. Assumes basic MATLAB knowledge:
+	- Create class from scratch: Plotting not reusable for 3001
+		- Live plot the data
+			- Two lines with legend
+		- Save a single figure of final output
+		- subplots of velocity and position
+	- Give a .m of finished data that is controls based (multiple)
+	- Have points where the documentation has the answer
+Using the documentation for first 10 minutes
+
+Zach: Generate .m files and sample plots of the output
+Brandon: Create github repo
+Kalina: Form ideas for the plotting class methods
+	- Potential ideas:
+		- Make live plot
+		- Input data
+		- Save plot velocity with position
+		- Save plot for final product 
